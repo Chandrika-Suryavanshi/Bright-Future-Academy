@@ -389,3 +389,27 @@ body {
     }
 }
 
+.thank {
+    text-align: center;
+}
+
+.thank h1 {
+    color: #0f4c81;
+    margin-bottom: 10px;
+}
+
+.thank p {
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.thank a {
+    text-decoration: none;
+    background-color: #0f4c81;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+
